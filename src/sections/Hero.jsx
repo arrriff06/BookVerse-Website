@@ -59,13 +59,20 @@ download
 Download BookVerse APK
 
 </button>
-<p className="version">
-Version 1.2.0 • Android 8+ • 77 MB
-</p>
+
 
 </a>
 
+<p className="version">
+Version 1.0.0 
 
+Android 8+
+
+78 MB
+
+Last Updated
+July 2026
+</p>
 </div>
 
 
