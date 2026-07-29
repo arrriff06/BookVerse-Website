@@ -12,10 +12,7 @@ return (
 Start Your Reading Journey Today
 </h2>
 
-<p>
-Discover, read and manage your favorite books
-with BookVerse.
-</p>
+
 
 
 <div className="download-buttons">

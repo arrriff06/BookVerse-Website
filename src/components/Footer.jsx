@@ -69,21 +69,22 @@ Privacy Policy
 
 <div>
 
-<h3>
 Follow
-</h3>
+ <a
+    href="https://www.instagram.com/muttonbiriyaniwithryta/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Instagram
+  </a>
 
-<a href="#">
-Instagram
-</a>
-
-<a href="#">
-Github
-</a>
-
-<a href="#">
-Twitter
-</a>
+  <a
+    href="https://www.facebook.com/profile.php?id=100069605891816"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Facebook
+  </a>
 
 </div>
 
