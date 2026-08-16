@@ -18,8 +18,8 @@ Start Your Reading Journey Today
 <div className="download-buttons">
 
 <a
-href="/bookverse.apk"
-download
+  href="/BookVerse-1.2.0.apk"
+  download="BookVerse-1.2.0.apk"
 >
 
 <button>
