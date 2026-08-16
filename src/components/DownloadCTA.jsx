@@ -18,7 +18,7 @@ Start Your Reading Journey Today
 <div className="download-buttons">
 
 <a
-  href="/BookVerse-1.2.0.apk"
+  href="/BookVerse-1.3.0.apk"
   className="download-app-button"
 >
   Download App
