@@ -19,15 +19,9 @@ Start Your Reading Journey Today
 
 <a
   href="/BookVerse-1.2.0.apk"
-  download="BookVerse-1.2.0.apk"
+  className="download-app-button"
 >
-
-<button>
-
-Download App
-
-</button>
-
+  Download App
 </a>
 
 <button 

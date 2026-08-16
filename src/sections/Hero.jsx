@@ -50,21 +50,14 @@ your personal library.
 
 
 <a
-href="/bookverse.apk"
-download
+  href="/BookVerse-1.2.0.apk"
+  className="download-app-button"
 >
-
-<button>
-
-Download BookVerse APK
-
-</button>
-
-
+  Download App
 </a>
 
 <p className="version">
-Version 1.0.0 
+Version 1.2.0 
 
 Android 8+
 

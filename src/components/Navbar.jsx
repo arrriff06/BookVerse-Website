@@ -108,13 +108,10 @@ Download
 
 
 <a
-href="/bookverse.apk"
-download
-className="nav-button"
+  href="/BookVerse-1.2.0.apk"
+  className="nav-button"
 >
-
-Get App
-
+  Get App
 </a>
 
 
